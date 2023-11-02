@@ -117,7 +117,7 @@ body {
   color: #d14539;
 }
 .alert_bg {
-  background:  rgba(240, 130, 134, 0.5);
+  background:  rgba(rgba(230,169,171,.5));
 }
 .section_footer {
   background:  #251e19 ;
